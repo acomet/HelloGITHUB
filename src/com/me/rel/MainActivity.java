@@ -21,6 +21,7 @@ public class MainActivity extends ActionBarActivity {
     private void initView() {
 		// TODO Auto-generated method stub
 		Log.i(MainActivity.class.getSimpleName(), "HELLO GITHUB");
+		Log.i(MainActivity.class.getSimpleName(), "HELLO kitty");
 	}
 
 
